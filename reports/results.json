@@ -1,0 +1,17 @@
+{
+  "cleaning": {
+    "rows_raw": 6819,
+    "missing_values": 0,
+    "duplicate_rows": 0,
+    "values_winsorized": 1378,
+    "rows_clean": 6819,
+    "bankrupt_firms": 220,
+    "bankruptcy_rate": 0.03226279513125092
+  },
+  "cv_auc": {
+    "Liquidity only": 0.8035253275289644,
+    "Leverage + profit only": 0.9233644216065795,
+    "All measures": 0.9270736612985438
+  },
+  "strongest_liquidity_signal": "Quick ratio"
+}
