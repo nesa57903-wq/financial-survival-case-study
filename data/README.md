@@ -1,4 +1,4 @@
- Data
+
 
 This project uses the **Company Bankruptcy Prediction** dataset on Kaggle:
 https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
